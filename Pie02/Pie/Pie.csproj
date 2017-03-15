@@ -167,10 +167,6 @@
       <Project>{d81f5c91-d7db-46e5-bc99-49488fb6814c}</Project>
       <Name>010.Irony.2012</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Pie02CS\Pie02CS.csproj">
-      <Project>{f0d31b2d-b890-43a4-a081-7f90836adc5d}</Project>
-      <Name>Pie02CS</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
